@@ -10,5 +10,5 @@ Expanding Widgets is a quick way to add multiple widgets, and show only one/mult
 
 Sample CSS is below, which provides some basic styling.
 
-[Sample CSS](https://gist.github.com/mattclements/21777cb96f767e8a198c)
-[Screencast](http://quick.as/w0xcrwa)
+* [Sample CSS](https://gist.github.com/mattclements/21777cb96f767e8a198c)
+* [Screencast](http://quick.as/w0xcrwa)
